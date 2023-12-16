@@ -1,0 +1,95 @@
+[
+    {
+        "id": 1,
+        "name": "Nike SHoes",
+        "price": 50,
+        "image": "static/images/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Adidas Bag",
+        "price": 20,
+        "image": "static/images/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Adidas water Bottle",
+        "price": 60,
+        "image": "static/images/3.jpg"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "Goggle",
+        "price": 40,
+        "image": "static/images/4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Nike Casual Shoes 5",
+        "price": 120,
+        "image": "static/images/1.jpg"
+    }
+,    {
+    "id": 6,
+    "name": "Trentic Watch ",
+    "price": 520,
+    "image": "static/images/1.webp"
+},
+{
+    "id": 7,
+    "name": "Trentic Watch",
+    "price": 220,
+    "image": "static/images/2.webp"
+},
+{
+    "id": 8,
+    "name": "Trentic Watch",
+    "price": 250,
+    "image": "static/images/3.webp"
+}
+,
+{
+    "id": 9,
+    "name": "Trentic Watch",
+    "price": 420,
+    "image": "static/images/4.webp"
+},
+{
+    "id": 10,
+    "name": "Trentic Watch",
+    "price": 120,
+    "image": "static/images/5.webp"
+},
+{
+    "id": 11,
+    "name": "ZULJ-01 COPILOT",
+    "price": 120,
+    "image": "static/images/6.webp"
+},
+
+{
+    "id": 12,
+    "name": "Noise Smart Watch 12",
+    "price": 420,
+    "image": "static/images/8.jpg"
+},
+{
+    "id": 10,
+    "name": "Nikon Camera",
+    "price": 120,
+    "image": "static/images/7.jpg"
+},
+{
+    "id": 11,
+    "name": "samsung ",
+    "price": 120,
+    "image": "static/images/6.jpg"
+},{
+    "id": 11,
+    "name": "adidas bottle 14",
+    "price": 120,
+    "image": "static/images/3.jpg"
+}
+
+]
