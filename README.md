@@ -51,4 +51,4 @@ required modules:
 Flask==3.0.0
 Flask-SQLAlchemy==3.1.1
 Flask-CORS==4.0.0
-psycopg2-binary==2.9.39
+psycopg2-binary==2.9.9
