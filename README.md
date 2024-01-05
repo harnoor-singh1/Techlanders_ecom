@@ -48,7 +48,7 @@ Feel free to enhance and customize this application according to your requiremen
 
 required modules:
 
-Flask==2.1.4
-Flask-SQLAlchemy==3.0
-Flask-CORS==3.0.10
-psycopg2-binary==2.9.3
+Flask==3.0.0
+Flask-SQLAlchemy==3.1.1
+Flask-CORS==4.0.0
+psycopg2-binary==2.9.39
